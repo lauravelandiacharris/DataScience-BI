@@ -1,5 +1,5 @@
 # DataScience & BI
-Consolidado de proyectos realizados en el Posgrado Data Science &amp; Business Analytics
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks.
 
 ## Content
 
